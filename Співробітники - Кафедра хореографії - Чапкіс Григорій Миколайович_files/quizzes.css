@@ -1,0 +1,27 @@
+/****view-quizzes ****/
+.view-quizzes a {
+  font-size:20px;
+}
+ .ariQuizQuestionRight p {
+     font-size: 28px;
+     font-weight: 700;
+}
+.ariQuizHeaderName {
+    font-weight: bold;
+    font-size: 23px;
+}
+.ariQuizQuestionTable tr {
+    padding:20px;
+}
+input[type="radio"], input[type="checkbox"] {
+    margin: -6px 0 0!important;
+}
+#kunena.layout .pagination {
+    margin-left: -42px!important;
+}
+.task-quiz_finished td {
+  padding:10px!important;
+}
+.ariQuizProgressWrap {
+    margin-left: 11px!important;
+}
